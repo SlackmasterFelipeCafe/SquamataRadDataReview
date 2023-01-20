@@ -6,7 +6,7 @@
 
 ## Launch this notebook in Binder using the link below to try it for yourself.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pbrown-usgs/SquamataPopulateCSVEntityAndAttributeUsingJSONLookupTableURL/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pbrown-usgs/SquamataRadDataReview/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fpbrown-usgs%2FSquamataRadDataReview%2Fblob%2Fmain%2FSquamata-RadMetadataReview_V1-2.ipynb)
 
 *"Birthing the tail that feeds it..."* 
 
